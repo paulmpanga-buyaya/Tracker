@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_customers"
+    app:startDestination="@id/customersFragment">
+
+    <fragment
+        android:id="@+id/customersFragment"
+        android:name="sales.pipesandconduit.tracker.CustomersFragment"
+        android:label="fragment_customers"
+        tools:layout="@layout/fragment_customers" >
+        <action
+            android:id="@+id/addCustomer2"
+            app:destination="@id/addCustomerFragment"
+            app:enterAnim="@anim/nav_default_pop_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"/>
+    </fragment>
+    <fragment
+        android:id="@+id/addCustomerFragment"
+        android:name="sales.pipesandconduit.tracker.AddCustomerFragment"
+        android:label="fragment_add_customer"
+        tools:layout="@layout/fragment_add_customer" >
+        <action
+            android:id="@+id/action_addCustomerFragment_to_customersFragment"
+            app:destination="@id/customersFragment"
+            app:enterAnim="@anim/nav_default_pop_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"/>
+    </fragment>
+</navigation>

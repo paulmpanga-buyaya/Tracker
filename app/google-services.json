@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473539147573",
+    "project_id": "tracker-6ac1d",
+    "storage_bucket": "tracker-6ac1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473539147573:android:b3fc61b0b3728d8e87fe7c",
+        "android_client_info": {
+          "package_name": "sales.pipesandconduit.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473539147573-c2s7j3qpc3tpu0eo1fjrn6h3verro6fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsHM0uNmRR12fy3fXhsscXFoiaX3X8dT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473539147573-c2s7j3qpc3tpu0eo1fjrn6h3verro6fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

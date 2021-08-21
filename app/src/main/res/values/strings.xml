@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_products_hint">Search products</string>
+    <string name="search_inventory_hint">Search inventory</string>
+    <string name="search_expenses_hint">Search expenses</string>
+    <string name="search_customers_hint">Search customers</string>
+    <string name="individual">Individual</string>
+    <string name="organization">Business</string>
+    <string name="product_name">Name</string>
+    <string name="product_code">Code</string>
+    <string name="product_price">Price</string>
+    <string name="title_activity_add_expense">Adding expense</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_products">Products</string>
+    <string name="title_activity_expenses">Expenses</string>
+    <string name="title_activity_stock">Stock</string>
+    <string name="title_activity_categories">Categories</string>
+    <string name="title_activity_new_sale">New sale</string>
+    <string name="title_activity_edit_item">Edit item</string>
+    <string name="title_activity_customers">Customers</string>
+    <string name="title_activity_add_customers">Add customers</string>
+    <string name="search_hint">Type name…</string>
+    <string name="todo">TODO</string>
+    <string name="submit">submit</string>
+    <string name="description">Description</string>
+    <string name="amount">Amount</string>
+    <string name="voucher">Voucher #</string>
+    <string name="expense_date">Expense date</string>
+    <string name="category_touch_to_select">Category - touch to select</string>
+    <string name="payment_account">Payment account</string>
+    <string name="payee">Payee</string>
+    <string name="close">Close</string>
+    <string name="adding_expense">Adding Expense</string>
+    <string name="nin">Nin</string>
+    <string name="phone">Phone</string>
+    <string name="position">Position</string>
+    <string name="salary">Salary</string>
+    <string name="save">Save</string>
+</resources>

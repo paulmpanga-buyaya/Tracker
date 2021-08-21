@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_transactions"
+        android:icon="@drawable/ic_baseline_list_24"
+        android:title="Transactions" />
+
+    <item
+        android:id="@+id/navigation_new_sale"
+        android:icon="@drawable/ic_baseline_add_circle_24"
+        android:title="New Sale" />
+
+    <item
+        android:id="@+id/navigation_add_expense"
+        android:icon="@drawable/ic_baseline_add_circle_24"
+        android:title="Add Expense" />
+
+</menu>
